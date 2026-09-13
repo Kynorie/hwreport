@@ -1,5 +1,13 @@
 # hwreport
 
+  <a href="#what-it-shows">What it Displays when ran</a> •
+  <a href="#installation">Install</a> •
+  <a href="#usage">How to Use</a> •
+  <a href="#edit-the-config">Edit Configuration File</a> •
+  <a href="#use-a-specific-editor">Choose a specific editor to change config</a> •
+  <a href="#settings-menu">Settings menu</a>
+</p>
+
 A simple CLI tool that shows your computer's hardware and system info.
 
 Run one command and see your CPU, GPU, RAM, display, battery, OS, and kernel version. No digging through system settings.
